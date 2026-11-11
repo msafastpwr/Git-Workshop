@@ -1,78 +1,168 @@
-# GitHub: Build, Commit, Collaborate
+# GitHub: Build, Commit, Collaborate 🚀
 
-Workshop resources for the **GitHub: Build, Commit, Collaborate** workshop organized by Microsoft Student Ambassadors (MSA), FAST NUCES Peshawar.
+**A practical learning resource for Git and GitHub, developed as part of the two-session technical workshop organized by Microsoft Student Ambassadors (MSA), FAST NUCES Peshawar.**
 
-The workshop introduced Git and GitHub from first principles: version control, installation and configuration, repositories and commits, remote operations, cloning and forking, GitHub Issues, contributions, security, branching, merging, and collaboration workflows. It included cross-platform hands-on implementation so students could practice the same workflow on their available operating system.
+Learn version control, manage repositories, collaborate with developers, and contribute to projects using Git and GitHub.
 
-## If Git is completely new to you
+This repository brings together workshop presentations, practical guides, command references, hands-on exercises, and additional learning resources from both sessions.
 
-That is okay. Git is a tool you run in a terminal, while GitHub is a website that hosts repositories and supports teamwork. You do not need to memorize every command: read the explanation, copy one command at a time, and check `git status` whenever you are unsure what is happening.
+---
 
-The basic idea is:
+## 📚 Workshop Overview
 
-```text
-edit a file → stage the change → commit a snapshot → push it to GitHub
-```
+The **GitHub: Build, Commit, Collaborate** workshop was a two-session, hands-on technical series designed to introduce students to modern version control and collaborative software development.
 
-Start with the [Git and GitHub guide](guides/git-github-guide.md), then complete the exercises in order. The examples use placeholders such as `<repository-url>`; replace the whole placeholder with your own value and do not type the angle brackets.
+Organized at **FAST NUCES, Peshawar Campus**, the workshop brought together 38 undergraduate students from Computer Science, Software Engineering, and Artificial Intelligence.
 
-## Workshop information
+### What You'll Learn
 
-- **Venue:** Hassan Abidi PC Lab, FAST NUCES Peshawar
-- **Participants:** 38
-- **Technical mentors:** six (6)
-- **Instructors:** Mohsin Ali, Waleeja Khan, Syeda Areej E Fatima
-- **President:** Rayyan Shaheer
-- **Vice President:** Subhan Baig
-- **Faculty Advisor:** Sir Samin Ahmed
-- **Head of Guild:** Dr. Muhammad Usman Abbasi
+- Understand version control and the role of Git and GitHub.
+- Set up Git on your local machine.
+- Create repositories and manage commits.
+- Connect local repositories to GitHub.
+- Clone, fork, pull, and push repositories.
+- Work with branches and merge changes.
+- Understand GitHub Issues and Pull Requests.
+- Collaborate on projects and contribute responsibly.
+- Follow security practices when working with Git and GitHub.
 
-## Learning outcomes
+---
 
-After working through these materials, participants should be able to:
+## 🗂️ Workshop Sessions
 
-- Explain the difference between a working directory, staging area, local repository, and remote repository.
-- Create repositories, make focused commits, inspect history, and exchange changes with a remote.
-- Clone and fork projects, open issues, and contribute through branches and Pull Requests.
-- Resolve common merge conflicts and use a review-based collaboration workflow.
-- Configure Git safely, authenticate with HTTPS or SSH, and avoid committing secrets.
-- Recover from common mistakes using safe, reversible Git commands.
+### Session 1 — Git & GitHub Fundamentals
 
-The core workshop material is marked by the topics and exercises described here. Some troubleshooting, security, and reference material goes beyond the live session as additional learning support; it is not presented as a claim about what was demonstrated.
+An introduction to version control, Git fundamentals, and working with remote repositories.
 
-## Repository navigation
+**Topics covered:**
+- Version Control and Its Importance
+- Git vs GitHub
+- Understanding the Git Workflow
+- Installing and Configuring Git
+- Creating Repositories and Commits
+- Git Status and Log
+- Connecting Local Repositories to GitHub
+- Pushing and Pulling Changes
+- Cloning and Forking
+- Introduction to GitHub Issues
+- Writing Quality Contributions
+- Security and Responsible Contribution
 
-| Area | Contents |
-| --- | --- |
-| [`guides/`](guides/) | [Section overview](guides/) plus the Git/GitHub and authentication guides |
-| [`resources/`](resources/) | [Section overview](resources/), command reference, workflows, branching, collaboration, and troubleshooting |
-| [`exercises/`](exercises/) | [Section overview](exercises/) plus Git fundamentals and branching/collaboration exercises |
-| [`references.md`](references.md) | Official documentation and further learning |
-| [`CONTRIBUTING.md`](CONTRIBUTING.md) | How to suggest improvements to these materials |
+**[Explore Session 1 →](./session-1/)**
 
-Original workshop slides are intentionally not included; they can be added separately.
+### Session 2 — Branching & Collaboration
 
-## Quick glossary
+Moving beyond the basics and learning how developers organize, manage, and collaborate on code.
 
-- **Repository (repo):** a project tracked by Git, including its history.
-- **Commit:** a named snapshot of selected changes.
-- **Branch:** a separate line of work identified by a name.
-- **Remote:** another copy of a repository, commonly hosted on GitHub.
-- **Pull Request (PR):** a request to review and merge a branch into another branch.
-- **Issue:** a GitHub discussion for a task, bug, question, or improvement.
+**Topics covered:**
+- Introduction to Git Branches
+- Purpose of Branching
+- Main vs Feature Branches
+- Creating and Switching Branches
+- Feature Development and Commits
+- Local Branch Merging
+- Pushing Branches to GitHub
+- Understanding Collaborative Workflows
+- Resolving Merge Conflicts
 
-## Suggested path
+**[Explore Session 2 →](./session-2/)**
 
-1. Read the [Git and GitHub guide](guides/git-github-guide.md).
-2. Keep the [Git cheatsheet](resources/git-cheatsheet.md) open while practicing.
-3. Complete [Git fundamentals](exercises/git-fundamentals.md).
-4. Study [branching and merging](resources/branching-and-merging.md).
-5. Complete [branching and collaboration](exercises/branching-and-collaboration.md).
-6. Use [authentication and security](guides/authentication-and-security.md) before publishing code.
+---
 
-Students can use the repository independently by reading a guide, trying the related commands in a temporary repository, completing an exercise, and returning to troubleshooting when a command behaves differently on their system.
+## 📖 Repository Contents
 
-## Acknowledgements
+| Directory | Description |
+|---|---|
+| `session-1/` | Session 1 slides, guides, exercises and references |
+| `session-2/` | Session 2 slides, guides, exercises and references |
+| `resources/` | Shared Git commands, workflows and troubleshooting guides |
+| `additional-learning/` | Official documentation, tutorials and further learning resources |
 
-Thanks to the MSA FAST NUCES Peshawar team, the instructors, technical mentors, faculty leadership, and all 38 participants who made the workshop possible.
+### Quick Resources
 
+- [Git Command Cheat Sheet](./resources/git-command-cheatsheet.md)
+- [Git Workflow Guide](./resources/git-workflow.md)
+- [GitHub Authentication Guide](./resources/github-authentication.md)
+- [Troubleshooting Guide](./resources/troubleshooting.md)
+- [Official Documentation & Learning Resources](./additional-learning/official-documentation.md)
+
+---
+
+## 🛠️ Getting Started
+
+You don't need to attend the workshop to use these resources.
+
+If you're completely new to Git, here's a recommended learning path:
+
+1. Understand what version control is and why it matters.
+2. Install Git and configure your identity.
+3. Learn the basic workflow: `git status`, `git add`, `git commit`.
+4. Create a repository and push it to GitHub.
+5. Learn how to clone and pull existing repositories.
+6. Explore branches, merging, and collaboration.
+7. Practice contributing through GitHub Issues and Pull Requests.
+
+**Prerequisites:** A computer, an internet connection, a GitHub account, and a willingness to experiment.
+
+---
+
+## 💻 Supported Platforms
+
+The workshop covered Git installation, setup, and authentication across:
+
+- Windows (Git Bash / WSL)
+- Linux
+- macOS
+
+The practical guides aim to accommodate students using different operating systems.
+
+---
+
+## 👥 Workshop Team
+
+**Technical Instructors**
+- Mohsin Ali
+- Waleeja Khan
+- Syeda Areej E Fatima
+
+**Organized by:** Microsoft Student Ambassadors (MSA), FAST NUCES Peshawar.
+
+**Faculty Advisor:** Sir Samin Ahmed
+
+**Head of Guild:** Dr. Muhammad Usman Abbasi
+
+---
+
+## 🌟 Acknowledgements
+
+A big thank you to everyone who contributed to making this workshop possible, including our university administration, faculty leadership, technical team, mentors, and all 38 participants.
+
+Special appreciation to our President, Rayyan Shaheer, and Vice President, Subhan Baig, for their leadership and support.
+
+---
+
+## 🤝 Contributions
+
+Learning doesn't stop after a workshop!
+
+If you find an issue, have an improvement, or want to contribute additional learning material, you're welcome to contribute.
+
+You can:
+- Fix an error or improve an existing guide.
+- Add useful Git/GitHub commands and examples.
+- Share tutorials and learning resources.
+- Add practical exercises and troubleshooting solutions.
+
+Please follow the contribution guidelines before submitting changes.
+
+---
+
+## 📜 License
+
+See [LICENSE](./LICENSE) for information about the use and distribution of these materials.
+
+---
+
+**Built for students, by students.**
+
+**Microsoft Student Ambassadors — FAST NUCES Peshawar** 🚀
