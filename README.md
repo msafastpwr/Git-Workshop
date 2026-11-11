@@ -12,7 +12,7 @@ This repository brings together workshop presentations, practical guides, comman
 
 The **GitHub: Build, Commit, Collaborate** workshop was a two-session, hands-on technical series designed to introduce students to modern version control and collaborative software development.
 
-Organized at **FAST NUCES, Peshawar Campus**, the workshop brought together 38 undergraduate students from Computer Science, Software Engineering, and Artificial Intelligence.
+Organized at **FAST NUCES, Peshawar Campus**, the workshop brought together undergraduate students from Computer Science, Software Engineering, and Artificial Intelligence.
 
 ### What You'll Learn
 
@@ -132,7 +132,7 @@ The practical guides aim to accommodate students using different operating syste
 
 ## 🌟 Acknowledgements
 
-A big thank you to everyone who contributed to making this workshop possible, including our university administration, faculty leadership, technical team, mentors, and all 38 participants.
+A big thank you to everyone who contributed to making this workshop possible, including our university administration, faculty leadership, technical team, mentors, and all participants.
 
 Special appreciation to our President, Rayyan Shaheer, and Vice President, Subhan Baig, for their leadership and support.
 
@@ -152,13 +152,6 @@ You can:
 
 Please follow the contribution guidelines before submitting changes.
 
----
-
-## 📜 License
-
-See [LICENSE](./LICENSE) for information about the use and distribution of these materials.
-
----
 
 **Built for students, by students.**
 
