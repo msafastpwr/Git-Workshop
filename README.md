@@ -77,11 +77,11 @@ Moving beyond the basics and learning how developers organize, manage, and colla
 
 ### Quick Resources
 
-- [Git Command Cheat Sheet](./resources/git-command-cheatsheet.md)
-- [Git Workflow Guide](./resources/git-workflow.md)
-- [GitHub Authentication Guide](./resources/github-authentication.md)
-- [Troubleshooting Guide](./resources/troubleshooting.md)
-- [Official Documentation & Learning Resources](./additional-learning/official-documentation.md)
+- [Git Command Cheat Sheet](https://docs.github.com/en/get-started/git-basics/git-cheatsheet)
+- [Git Workflow Guide](https://docs.github.com/en/get-started/using-github/github-flow)
+- [GitHub Authentication Guide](https://docs.github.com/en/authentication)
+- [Troubleshooting Guide](https://docs.github.com/en/get-started/using-git/troubleshooting-common-issues)
+- [Official Documentation & Learning Resources](https://git-scm.com/learn)
 
 ---
 
