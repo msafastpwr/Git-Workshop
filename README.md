@@ -48,7 +48,6 @@ An introduction to version control, Git fundamentals, and working with remote re
 - Writing Quality Contributions
 - Security and Responsible Contribution
 
-**[Explore Session 1 →](./session-1/)**
 
 ### Session 2 — Branching & Collaboration
 
@@ -65,7 +64,6 @@ Moving beyond the basics and learning how developers organize, manage, and colla
 - Understanding Collaborative Workflows
 - Resolving Merge Conflicts
 
-**[Explore Session 2 →](./session-2/)**
 
 ---
 
@@ -73,10 +71,9 @@ Moving beyond the basics and learning how developers organize, manage, and colla
 
 | Directory | Description |
 |---|---|
-| `session-1/` | Session 1 slides, guides, exercises and references |
-| `session-2/` | Session 2 slides, guides, exercises and references |
+| `exercises/` | Contains Session 1 and Session 2 Practice Exercise |
 | `resources/` | Shared Git commands, workflows and troubleshooting guides |
-| `additional-learning/` | Official documentation, tutorials and further learning resources |
+| `guides/` | Contains Guides for Git/Github |
 
 ### Quick Resources
 
